@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "==1.33"
+ollama = "==0.1.8"
+langchain = "0.1.16"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
