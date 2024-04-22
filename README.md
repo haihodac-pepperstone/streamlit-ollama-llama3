@@ -8,19 +8,21 @@ Welcome to this GitHub repository! Here's a brief overview of what you can find 
 - The Ollama backend is connected to a locally-installed Llama3 large-language-model.
 - When using this app, the answers are streamed for a better user experience.
 
-## Preperation
+![application screenshot](./docs/app_screenshot.png)
 
-1. Install and run Ollama
+## Preparation
+
+### 1. Install and run Ollama
 
 Link: https://ollama.com/download
 
-2. Download Llama3 model
+### 2. Download Llama3 model
 
 ```bash
 ollama pull llama3
 ```
 
-3. Run streamlit
+### 3. Run streamlit
 
 ```bash
 pipenv install
