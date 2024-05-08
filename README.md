@@ -32,6 +32,8 @@ streamlit run main.py
 
 Interact with the app via localhost at `http://localhost:8501`
 
+**Note:** hit `New conversation` to reload ollama model and clear all messages
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
